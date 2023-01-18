@@ -1,0 +1,25 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+
+
+    overflow-x: hidden;
+}
+
+.carousel-item img{
+
+
+    height: 80vh;
+    width: 100%;
+}
+
+.card-body img{
+    max-height: 200px;
+    min-width: 50%;
+
+}
+
